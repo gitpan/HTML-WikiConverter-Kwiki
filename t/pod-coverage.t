@@ -9,12 +9,18 @@ all_pod_coverage_ok( { also_private => [
      get_elem_contents
     |get_wiki_page
     |get_attr_str
+    |elem_within_block
     |is_camel_case
+    |rule
+    |rules
+    |attribute
     |attributes
+    |preprocess_tree
     |preprocess_node
     |postprocess_output
     |caption2para
     |strip_aname
-    |rules
+    |base_url
+    |wiki_url
   /x
 ] } );

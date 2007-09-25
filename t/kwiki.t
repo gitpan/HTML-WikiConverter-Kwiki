@@ -210,7 +210,7 @@ __H__
 <tr><td>weigtht</td><td>130lbs</td><td>150lbs</td></tr>
 </table></html>
 __W__
-|   | Dick | Jane  |
+|  | Dick | Jane  |
 | height | 72" | 65"  |
 | weigtht | 130lbs | 150lbs  |
 __NEXT__
@@ -225,6 +225,6 @@ __H__
 __W__
 Caption
 
-|   | Dick | Jane  |
+|  | Dick | Jane  |
 | height | 72" | 65"  |
 | weigtht | 130lbs | 150lbs  |

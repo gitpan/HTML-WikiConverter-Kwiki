@@ -5,7 +5,7 @@ use strict;
 
 use base 'HTML::WikiConverter';
 
-our $VERSION = '0.50';
+our $VERSION = '0.51';
 
 =head1 NAME
 
@@ -103,7 +103,6 @@ sub preprocess_node {
   $self->strip_aname($node) if $node->tag eq 'a';
   $self->caption2para($node) if $node->tag eq 'caption';
 }
-
 
 =head1 AUTHOR
 

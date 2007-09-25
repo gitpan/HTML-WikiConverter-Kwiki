@@ -1,4 +1,4 @@
-HTML::WikiConverter::Kwiki version 0.50
+HTML::WikiConverter::Kwiki version 0.51
 =======================================
 
 HTML::WikiConverter::Kwiki adds the Kwiki dialect to
@@ -18,23 +18,15 @@ Or from the command line:
 
 There's also a web interface if you're so inclined:
 
-  http://diberri.dyndns.org/html2wiki.html
+  http://diberri.dyndns.org/wikipedia/html2wiki/
 
-VERSION
+CHANGES IN 0.51
 
-This is HTML::WikiConverter::Kwiki 0.50.
-
-Prior versions of HTML::WikiConverter supported the Kwiki dialect out
-of the box. As of 0.50, each dialect was branched off into a separate
-CPAN package.
-
-CHANGES IN 0.50
-
-  * Kwiki dialect now has its own CPAN package
+  * Test suite fixed so installation should proceed normally
 
 DEPENDENCIES
 
-  * HTML::WikiConverter version 0.50
+  * HTML::WikiConverter version 0.55
 
 INSTALLATION
 
